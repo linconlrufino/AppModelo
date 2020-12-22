@@ -25,3 +25,5 @@ C:\Users\linconl\source\repos\AppModelo\DevIO.UI.Site\obj\Debug\netcoreapp2.1\De
 C:\Users\linconl\source\repos\AppModelo\DevIO.UI.Site\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\linconl\source\repos\AppModelo\DevIO.UI.Site\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\linconl\source\repos\AppModelo\DevIO.UI.Site\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\linconl\source\repos\AppModelo\DevIO.UI.Site\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\linconl\source\repos\AppModelo\DevIO.UI.Site\bin\Debug\netcoreapp2.1\bundleconfig.json
